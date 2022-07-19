@@ -6,7 +6,6 @@ node_modules
 .pnp.js
 
 # testing
-/packages/*/coverage
 
 # report
 /report.json
@@ -23,7 +22,6 @@ logs
 
 # misc
 cache
-.*cache
 .DS_Store
 *.env
 .idea/
